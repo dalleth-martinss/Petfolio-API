@@ -1,4 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Petfolio.Communication.Requests;
+using Petfolio.Communication.Responses;
+using Petfolio.Application.UsesCases.Pet.Register;
+
 
 namespace Petfolio.API.Controllers;
 
@@ -7,8 +11,14 @@ namespace Petfolio.API.Controllers;
 public class PetController : ControllerBase
 {
     [HttpPost]
-    public IActionResult Register()
+    //para mostrar no swagger precisamos fazer:
+    [ProducesResponseType(typeof(ResponseRegisteredPetJson), StatusCodes.Status201Created)]
+    public IActionResult Register([FromBody] RequestRegisterPetJson request)
     {
-        return Created();
+        var useCase = new RegisterPetUseCase();
+
+        var response = useCase.Execute(request);
+
+        return Created(string.Empty, response);
     }
 }

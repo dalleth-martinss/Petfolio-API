@@ -1,0 +1,16 @@
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.deps.json
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.dll
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.dll
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.AssemblyReference.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfoInputs.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfo.cs
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.CoreCompileInputs.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.32F76676.Up2Date
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.dll
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO CSHARP ROCKETSEAT\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
