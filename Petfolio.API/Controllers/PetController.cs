@@ -60,4 +60,16 @@ public class PetController : ControllerBase
     }
 
 
+    [HttpGet]
+    [Route("{id}")]
+    [ProducesResponseType(typeof(ResponsePetJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status404NotFound)]
+    public IActionResult Get(int id)
+    {
+        return Ok();
+    }
+
+
+
+
 }
