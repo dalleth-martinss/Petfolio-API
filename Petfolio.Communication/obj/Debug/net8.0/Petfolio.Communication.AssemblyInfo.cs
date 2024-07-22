@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petfolio.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5a0dd9613293ae4f02138e9524f1f5e05c6a5be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04aa1ba0350c263041246525826968292f5b66fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petfolio.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petfolio.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

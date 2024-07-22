@@ -37,7 +37,8 @@ public class PetController : ControllerBase
     }
 
     [HttpGet]
-
+    [ProducesResponseType(typeof(ResponseAllPetJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
     public IActionResult GetAll()
     {
         return Ok();
