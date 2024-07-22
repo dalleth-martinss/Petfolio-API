@@ -14,6 +14,7 @@ public class PetController : ControllerBase
     [HttpPost]
     //para mostrar no swagger precisamos fazer:
     [ProducesResponseType(typeof(ResponseRegisteredPetJson), StatusCodes.Status201Created)]
+    [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status400BadRequest)]
     public IActionResult Register([FromBody] RequestPetJson request)
     {
         var useCase = new RegisterPetUseCase();
@@ -26,6 +27,7 @@ public class PetController : ControllerBase
     [HttpPut]
     [Route("{id}")]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status400BadRequest)]
     public IActionResult Update([FromRoute]int id, [FromBody] RequestPetJson request)
     {
         var useCase = new UpdatePetUseCase();
@@ -34,7 +36,12 @@ public class PetController : ControllerBase
         return NoContent();
     }
 
+    [HttpGet]
 
+    public IActionResult GetAll()
+    {
+        return Ok();
+    }
 
 
 
