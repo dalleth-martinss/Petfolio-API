@@ -1,7 +1,8 @@
 ﻿
 # Exercicio CRUD Petfolio API 👩🏻‍💻📚
 
-Petfolio é uma API para gerenciar informações dos pets. 
+Petfolio é um exercicio de uma API para gerenciar informações dos pets, com intuito de me familiarizar com os
+conceitos dos métodos HTTP.
 Este projeto permite realizar operações CRUD (Create, Read, Update, Delete) 
 para cada pet que foi cadastrado.
 
@@ -56,7 +57,7 @@ Sinta-se à vontade para contribuir com o projeto. Caso queira, basta seguir os 
 
 ## Licença📌
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/license/MIT) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/license/MIT) para mais informações.
 
 ---
 
