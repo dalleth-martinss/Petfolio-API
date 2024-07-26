@@ -1,10 +1,9 @@
 ﻿
-# Exercicio CRUD Petfolio API 👩🏻‍💻📚
+# Exercicio CRUD Petfolio🐾 API 👩🏻‍💻📚
+O Petfolio é um projeto de exercício que visa familiarizar os desenvolvedores com os conceitos dos métodos HTTP e operações CRUD (Create, Read, Update, Delete). Ele permite o gerenciamento de informações relacionadas a animais de estimação. Aqui estão os principais pontos sobre o Petfolio:
 
-Petfolio é um exercicio de uma API para gerenciar informações dos pets, com intuito de me familiarizar com os
-conceitos dos métodos HTTP.
-Este projeto permite realizar operações CRUD (Create, Read, Update, Delete) 
-para cada pet que foi cadastrado.
+- **Objetivo**:
+O objetivo principal do Petfolio é fornecer uma interface para cadastrar, visualizar, atualizar e excluir informações sobre pets.🐾
 
 ## Ferramentas Utilizadas🛠️👩🏻‍💻
 
